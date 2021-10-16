@@ -1,0 +1,16 @@
+C:\Pedro\LargerWord\bin\Debug\net5.0\LargerWord.exe
+C:\Pedro\LargerWord\bin\Debug\net5.0\LargerWord.deps.json
+C:\Pedro\LargerWord\bin\Debug\net5.0\LargerWord.runtimeconfig.json
+C:\Pedro\LargerWord\bin\Debug\net5.0\LargerWord.runtimeconfig.dev.json
+C:\Pedro\LargerWord\bin\Debug\net5.0\LargerWord.dll
+C:\Pedro\LargerWord\bin\Debug\net5.0\ref\LargerWord.dll
+C:\Pedro\LargerWord\bin\Debug\net5.0\LargerWord.pdb
+C:\Pedro\LargerWord\obj\Debug\net5.0\LargerWord.csproj.AssemblyReference.cache
+C:\Pedro\LargerWord\obj\Debug\net5.0\LargerWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pedro\LargerWord\obj\Debug\net5.0\LargerWord.AssemblyInfoInputs.cache
+C:\Pedro\LargerWord\obj\Debug\net5.0\LargerWord.AssemblyInfo.cs
+C:\Pedro\LargerWord\obj\Debug\net5.0\LargerWord.csproj.CoreCompileInputs.cache
+C:\Pedro\LargerWord\obj\Debug\net5.0\LargerWord.dll
+C:\Pedro\LargerWord\obj\Debug\net5.0\ref\LargerWord.dll
+C:\Pedro\LargerWord\obj\Debug\net5.0\LargerWord.pdb
+C:\Pedro\LargerWord\obj\Debug\net5.0\LargerWord.genruntimeconfig.cache
